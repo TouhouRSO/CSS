@@ -1,0 +1,171 @@
+div[data-dulstclass~="Battle-Spell"][data-location="me-FirstRow"]{
+top:50% !important;
+};
+div[data-dulstclass~="Battle-Spell"][data-location="opponent-FirstRow"] {
+top: 35.5% !important;
+};
+div[data-dulstclass~="Pair-1"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0001.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-2"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0002.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-3"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0003.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-4"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0004.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-5"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0005.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-6"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0006.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-7"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0007.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-8"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0008.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-9"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0009.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-10"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0010.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-11"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0011.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-12"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0012.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-13"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0013.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-14"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0014.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-15"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0015.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-16"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0016.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-17"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0017.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-18"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0018.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-19"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0019.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+div[data-dulstclass~="Pair-20"]:before {
+content:"";
+width: 104px;
+height: 150px;
+position: absolute;
+background: url("http://touhourso.github.io/images/cardMarker/marker0020.png") no-repeat;
+-webkit-animation:pulse 2s infinite;
+};
+@-webkit-keyframes pulse { 
+0%{opacity:0}
+50%{opacity:1}
+100%{opacity:0}
+};
